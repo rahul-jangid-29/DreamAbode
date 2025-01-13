@@ -11,7 +11,7 @@ import PropertyDetailPage from "./components/PropertyDetailPage";
 
 const App = () => {
   return (
-    <Router basename="/DreamAbode">
+    <Router basename="/DreamAbode/">
       <Navbar />
       <AnimatePresence mode="wait">
         <Routes>
